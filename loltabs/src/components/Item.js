@@ -21,7 +21,7 @@ class Item extends Component {
       <div>
         <div
           onClick={this.closePopup}
-          className={this.state.showPopup ? "darkBG" : null}
+          className={this.state.showPopup ? "popBG" : null}
         />
         <div className={this.state.showPopup ? "fadeIn" : "fadeOut"}>
           <Popup id={this.props.id} image={this.props.image} closePopup={this.closePopup} />
