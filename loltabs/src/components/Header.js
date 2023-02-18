@@ -4,7 +4,18 @@ import "./App.css";
 
 class Header extends Component {
   render() {
-    return 
+    return ( <div>
+    <div className="nav">
+      <Link to={"./"}>
+        <img className="logo" src="logo-desktop.gif" alt="logo" />
+      </Link>
+   </div>
+    
+     
+     
+    </div>
+  
+);
   }
 }
 
