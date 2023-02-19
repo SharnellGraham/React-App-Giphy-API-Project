@@ -3,6 +3,9 @@ import { BrowserRouter, Route } from "react-router-dom";
 import Home from "./Home.js";
 import Popup from "./Popup.js";
 
+;
+
+
 
 
 class App extends Component {
@@ -24,7 +27,7 @@ class App extends Component {
               return <Popup />;
             }}
           />
-
+            
 
           </div>
       </BrowserRouter>
@@ -33,7 +36,10 @@ class App extends Component {
 
 
 }
-  
+
+
+
+
 
   
 export default App;

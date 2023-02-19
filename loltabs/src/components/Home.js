@@ -3,6 +3,7 @@ import Header from "./Header.js";
 import Item from "./Item.js";
 import "./App.css";
 
+
 class Home extends Component {
   constructor() {
     super();
@@ -63,9 +64,14 @@ class Home extends Component {
     );
   }
 
+
+
+  
+
+
 } 
 
 
 
-  
-export default Home;
+  export default Home;
+
