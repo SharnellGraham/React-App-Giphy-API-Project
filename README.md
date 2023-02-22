@@ -1,4 +1,4 @@
- ##React API UI Pattern Project
+<h1>React API UI Pattern Project<h1>
 
 I am  building  out a common UI pattern in React and integrate it with an
 API. for this project I wanted to build a Modal type wirefram mock. This should all users to click on image and a box should appear in the center of the screen also havine a feeature that will allow the user to close this box.
@@ -85,16 +85,6 @@ class Popup extends Component {
         />
       </div>
 ```
-
-
-
-
-
-
-
-
-
-
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
