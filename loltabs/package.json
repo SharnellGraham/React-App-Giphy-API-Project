@@ -1,7 +1,7 @@
 {
   "name": "giphy",
   "version": "0.1.0",
-  "homepage": "https://sharnellgraham.github.io/React-App-Giphy-API-Project",
+  "homepage": "https://SharnellGraham.github.io/React-App-Giphy-API-Project",
   "private": false,
   "dependencies": {
     "fs": "^0.0.1-security",
