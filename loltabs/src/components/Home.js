@@ -15,7 +15,7 @@ class Home extends Component {
 
   componentDidMount() {
     fetch(
-      "https://api.giphy.com/v1/gifs/search?q=+funny+elonmuske&api_key=3WlhkmpTYBTuWhFlTxZ31XvyGDzFbf8v",
+      "https://api.giphy.com/v1/gifs/search?q=+funny+dancee&api_key=3WlhkmpTYBTuWhFlTxZ31XvyGDzFbf8v",
       {
         method: "GET"
       }
