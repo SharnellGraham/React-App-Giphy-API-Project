@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BrowserRouter, Route } from "react-router-dom";
+import { HashRouter, Route } from "react-router-dom";
 import Home from "./Home.js";
 import Popup from "./Popup.js";
 
@@ -11,7 +11,7 @@ import Popup from "./Popup.js";
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div>
           <Route
             exact={true}
@@ -30,7 +30,7 @@ class App extends Component {
             
 
           </div>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 
