@@ -1,5 +1,5 @@
 <h1>React API UI Pattern Project<h1>
-
+_____________________________________
 I am  building  out a common UI pattern in React and integrate it with a
 API. For this project I wanted to build a Modal type wirefram mock. This should all users to click on image and a box should appear in the center of the screen also havine a feeature that will allow the user to close this box.
 
